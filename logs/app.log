@@ -1,0 +1,3 @@
+2024-04-09 10:23:01 GET /api/patients 200
+2024-04-09 10:23:45 POST /api/appointments 201
+2024-04-09 10:24:10 GET /api/staff 500
