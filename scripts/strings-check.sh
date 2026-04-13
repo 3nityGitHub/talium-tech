@@ -3,7 +3,7 @@ ENV=$1
 
 if [ -z "$ENV" ]; then
     echo "ERROR: No environment specified"
-    echo "Usage: ./strings-check.sh production"
+  
     exit 1
 fi
 
