@@ -1,13 +1,20 @@
-2024-04-09 10:23:01 GET /api/patients 200
-2024-04-09 10:23:45 POST /api/appointments 201
-2024-04-09 10:24:10 GET /api/staff 500
-2024-04-09 10:00:01 INFO Server started on port 3000
-2024-04-09 10:01:45 INFO GET /api/patients 200
-2024-04-09 10:02:10 ERROR GET /api/appointments 500
-2024-04-09 10:02:55 INFO POST /api/staff 201
-2024-04-09 10:03:30 ERROR Database connection failed
-2024-04-09 10:04:15 INFO GET /api/patients 200
-2024-04-09 10:05:00 ERROR Timeout on /api/appointments
-2024-04-09 10:06:20 INFO POST /api/patients 201
-2024-04-09 10:07:45 ERROR Unauthorised access attempt on /api/admin
-2024-04-09 10:08:30 INFO GET /api/staff 200
+2026-04-14 08:00:01 INFO Server started on port 3000
+2026-04-14 08:01:12 INFO GET /api/patients 200 45ms 192.168.1.10
+2026-04-14 08:01:45 INFO POST /api/appointments 201 120ms 192.168.1.11
+2026-04-14 08:02:10 ERROR GET /api/appointments 500 230ms 192.168.1.12
+2026-04-14 08:02:55 INFO POST /api/staff 201 89ms 192.168.1.10
+2026-04-14 08:03:30 ERROR Database connection failed 192.168.1.13
+2026-04-14 08:04:15 INFO GET /api/patients 200 67ms 192.168.1.11
+2026-04-14 08:05:00 ERROR Timeout on /api/appointments 500 192.168.1.12
+2026-04-14 08:06:20 INFO POST /api/patients 201 95ms 192.168.1.10
+2026-04-14 08:07:45 ERROR Unauthorised access attempt on /api/admin 192.168.1.99
+2026-04-14 08:08:30 INFO GET /api/staff 200 55ms 192.168.1.11
+2026-04-14 08:09:10 WARN High memory usage detected 85%
+2026-04-14 08:10:00 INFO GET /api/patients 200 44ms 192.168.1.10
+2026-04-14 08:11:30 ERROR GET /api/patients 500 890ms 192.168.1.12
+2026-04-14 08:12:00 INFO POST /api/appointments 201 102ms 192.168.1.11
+2026-04-14 08:13:45 WARN Response time exceeded 500ms threshold
+2026-04-14 08:14:20 ERROR Database connection failed 192.168.1.13
+2026-04-14 08:15:00 INFO GET /api/staff 200 61ms 192.168.1.10
+2026-04-14 08:16:30 ERROR Unauthorised access attempt on /api/admin 192.168.1.99
+2026-04-14 08:17:00 INFO Server health check passed

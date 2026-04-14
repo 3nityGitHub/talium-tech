@@ -1,0 +1,23 @@
+========================================
+ Talium-tech Log Report
+ Generated: 2026-04-14 19:36:01
+========================================
+
+Total log lines: 20
+INFO  count: 11
+ERROR count: 7
+WARN  count: 2
+
+Top 3 IPs:
+      5 192.168.1.10
+      4 192.168.1.11
+      3 192.168.1.12
+
+Endpoints with 500 errors:
+      1 /api/patients
+      1 /api/appointments
+
+Unauthorised access IPs:
+      2 192.168.1.99
+
+========================================
