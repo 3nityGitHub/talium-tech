@@ -2096,3 +2096,2625 @@ Filesystem                         Size  Used Avail Use% Mounted on
 ================================
   All systems checked.
 ================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 07:40:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 19:40:01 up 2 days,  7:34,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       160Mi        73Mi       1.0Mi       485Mi       463Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 07:45:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 19:45:01 up 2 days,  7:39,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       160Mi        73Mi       1.0Mi       485Mi       463Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 07:50:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 19:50:01 up 2 days,  7:44,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       160Mi        73Mi       1.0Mi       485Mi       464Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 07:55:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 19:55:01 up 2 days,  7:49,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        77Mi       1.0Mi       487Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:00:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:00:01 up 2 days,  7:54,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        77Mi       1.0Mi       487Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:05:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:05:01 up 2 days,  7:59,  2 users,  load average: 0.07, 0.02, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        77Mi       1.0Mi       487Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:10:02 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:10:02 up 2 days,  8:04,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        77Mi       1.0Mi       487Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:15:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:15:01 up 2 days,  8:08,  2 users,  load average: 0.01, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        77Mi       1.0Mi       487Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:20:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:20:01 up 2 days,  8:14,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        77Mi       1.0Mi       487Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:25:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:25:01 up 2 days,  8:19,  2 users,  load average: 0.03, 0.02, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        77Mi       1.0Mi       487Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:30:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:30:01 up 2 days,  8:24,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        76Mi       1.0Mi       487Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:35:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:35:01 up 2 days,  8:29,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        76Mi       1.0Mi       487Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:40:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:40:01 up 2 days,  8:34,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        77Mi       1.0Mi       487Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:45:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:45:01 up 2 days,  8:39,  2 users,  load average: 0.07, 0.02, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        75Mi       1.0Mi       488Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:50:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:50:01 up 2 days,  8:44,  2 users,  load average: 0.07, 0.03, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        76Mi       1.0Mi       488Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 08:55:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 20:55:01 up 2 days,  8:49,  2 users,  load average: 0.01, 0.02, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        76Mi       1.0Mi       488Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:00:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:00:01 up 2 days,  8:54,  2 users,  load average: 0.00, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        76Mi       1.0Mi       488Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:05:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:05:01 up 2 days,  8:59,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        76Mi       1.0Mi       488Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:10:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:10:01 up 2 days,  9:04,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        76Mi       1.0Mi       488Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:15:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:15:01 up 2 days,  9:08,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        75Mi       1.0Mi       488Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:20:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:20:01 up 2 days,  9:13,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        75Mi       1.0Mi       488Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:25:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:25:01 up 2 days,  9:19,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        75Mi       1.0Mi       488Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:30:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:30:01 up 2 days,  9:24,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        75Mi       1.0Mi       489Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:35:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:35:01 up 2 days,  9:29,  2 users,  load average: 0.00, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        75Mi       1.0Mi       489Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:40:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:40:01 up 2 days,  9:34,  2 users,  load average: 0.01, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        75Mi       1.0Mi       489Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:45:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:45:01 up 2 days,  9:39,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        75Mi       1.0Mi       489Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:50:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:50:01 up 2 days,  9:44,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        75Mi       1.0Mi       489Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 09:55:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 21:55:01 up 2 days,  9:49,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        75Mi       1.0Mi       489Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:00:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:00:01 up 2 days,  9:54,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        75Mi       1.0Mi       489Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:05:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:05:01 up 2 days,  9:59,  2 users,  load average: 0.09, 0.05, 0.01
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        75Mi       1.0Mi       489Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:10:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:10:02 up 2 days, 10:04,  2 users,  load average: 0.00, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        75Mi       1.0Mi       489Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:15:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:15:01 up 2 days, 10:08,  2 users,  load average: 0.03, 0.04, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:20:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:20:01 up 2 days, 10:13,  2 users,  load average: 0.00, 0.02, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:25:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:25:01 up 2 days, 10:19,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:30:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:30:01 up 2 days, 10:24,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:35:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:35:01 up 2 days, 10:29,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:40:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:40:01 up 2 days, 10:34,  2 users,  load average: 0.04, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:45:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:45:01 up 2 days, 10:39,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:50:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:50:01 up 2 days, 10:44,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 10:55:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 22:55:01 up 2 days, 10:49,  2 users,  load average: 0.02, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:00:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:00:01 up 2 days, 10:54,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        82Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:05:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:05:01 up 2 days, 10:59,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        82Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:10:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:10:01 up 2 days, 11:04,  2 users,  load average: 0.02, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        82Mi       0.0Ki       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:15:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:15:01 up 2 days, 11:09,  2 users,  load average: 0.06, 0.02, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        82Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:20:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:20:01 up 2 days, 11:13,  2 users,  load average: 0.02, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        82Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:25:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:25:01 up 2 days, 11:18,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        82Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:30:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:30:01 up 2 days, 11:24,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        82Mi       1.0Mi       482Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:35:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:35:01 up 2 days, 11:29,  2 users,  load average: 0.07, 0.02, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        82Mi       1.0Mi       482Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:40:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:40:01 up 2 days, 11:34,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        82Mi       1.0Mi       482Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:45:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:45:01 up 2 days, 11:39,  2 users,  load average: 0.10, 0.04, 0.01
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        82Mi       1.0Mi       482Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:50:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:50:01 up 2 days, 11:44,  2 users,  load average: 0.04, 0.03, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        82Mi       1.0Mi       482Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Tue 14 Apr 2026 11:55:01 PM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 23:55:01 up 2 days, 11:49,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        82Mi       1.0Mi       482Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:00:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:00:01 up 2 days, 11:54,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       157Mi        80Mi       1.0Mi       482Mi       467Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:05:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:05:01 up 2 days, 11:59,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        73Mi       1.0Mi       491Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:10:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:10:01 up 2 days, 12:04,  2 users,  load average: 0.03, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        73Mi       1.0Mi       491Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:15:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:15:01 up 2 days, 12:08,  2 users,  load average: 0.01, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       491Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:20:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:20:01 up 2 days, 12:13,  2 users,  load average: 0.08, 0.02, 0.01
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       491Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:25:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:25:01 up 2 days, 12:18,  2 users,  load average: 0.01, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       491Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:30:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:30:01 up 2 days, 12:24,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        72Mi       1.0Mi       491Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:35:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:35:01 up 2 days, 12:29,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       491Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:40:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:40:01 up 2 days, 12:34,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       491Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:45:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:45:01 up 2 days, 12:39,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       491Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:50:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:50:01 up 2 days, 12:44,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        72Mi       1.0Mi       491Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 12:55:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 00:55:01 up 2 days, 12:49,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:00:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:00:01 up 2 days, 12:54,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        72Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:05:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:05:01 up 2 days, 12:59,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:10:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:10:01 up 2 days, 13:04,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:15:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:15:01 up 2 days, 13:09,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        72Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:20:02 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:20:02 up 2 days, 13:14,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:25:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:25:01 up 2 days, 13:18,  2 users,  load average: 0.01, 0.02, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        72Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:30:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:30:01 up 2 days, 13:23,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        72Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:35:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:35:01 up 2 days, 13:28,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        71Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:40:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:40:01 up 2 days, 13:34,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        71Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:45:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:45:01 up 2 days, 13:39,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        72Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:50:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:50:01 up 2 days, 13:44,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        72Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 01:55:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 01:55:01 up 2 days, 13:49,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        71Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:00:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:00:01 up 2 days, 13:54,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       156Mi        70Mi       1.0Mi       492Mi       467Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:05:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:05:01 up 2 days, 13:59,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        71Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:10:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:10:01 up 2 days, 14:04,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        71Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:15:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:15:01 up 2 days, 14:09,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        71Mi       1.0Mi       492Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:20:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:20:01 up 2 days, 14:14,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        71Mi       1.0Mi       493Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:25:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:25:01 up 2 days, 14:19,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        71Mi       1.0Mi       493Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:30:02 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:30:02 up 2 days, 14:24,  2 users,  load average: 0.02, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        70Mi       1.0Mi       493Mi       468Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:35:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:35:01 up 2 days, 14:28,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        70Mi       1.0Mi       493Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:40:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:40:01 up 2 days, 14:33,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        71Mi       1.0Mi       493Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:45:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:45:01 up 2 days, 14:39,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        70Mi       1.0Mi       494Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:50:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:50:01 up 2 days, 14:44,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        70Mi       1.0Mi       494Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 02:55:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 02:55:01 up 2 days, 14:49,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        69Mi       1.0Mi       494Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:00:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:00:01 up 2 days, 14:54,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        69Mi       1.0Mi       494Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:05:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:05:01 up 2 days, 14:59,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        69Mi       1.0Mi       494Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:10:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:10:01 up 2 days, 15:04,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        83Mi       1.0Mi       481Mi       468Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:15:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:15:01 up 2 days, 15:09,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:20:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:20:01 up 2 days, 15:14,  2 users,  load average: 0.00, 0.02, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:25:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:25:01 up 2 days, 15:19,  2 users,  load average: 0.00, 0.02, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:30:02 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:30:02 up 2 days, 15:24,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:35:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:35:01 up 2 days, 15:28,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       154Mi        83Mi       1.0Mi       481Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:40:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:40:01 up 2 days, 15:33,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        80Mi       1.0Mi       483Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:45:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:45:01 up 2 days, 15:39,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       155Mi        80Mi       1.0Mi       484Mi       469Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:50:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:50:01 up 2 days, 15:44,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       157Mi        77Mi       1.0Mi       484Mi       467Mi
+Swap:         1.4Gi        26Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 03:55:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 03:55:01 up 2 days, 15:49,  2 users,  load average: 0.01, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       156Mi        95Mi       1.0Mi       467Mi       467Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:00:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:00:01 up 2 days, 15:54,  2 users,  load average: 0.01, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       156Mi        95Mi       1.0Mi       467Mi       467Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:05:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:05:01 up 2 days, 15:59,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       158Mi        93Mi       1.0Mi       467Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:10:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:10:01 up 2 days, 16:04,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       159Mi        92Mi       1.0Mi       468Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:15:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:15:01 up 2 days, 16:09,  2 users,  load average: 0.01, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       158Mi        92Mi       1.0Mi       468Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:20:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:20:01 up 2 days, 16:14,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       158Mi        92Mi       1.0Mi       468Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:25:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:25:01 up 2 days, 16:19,  2 users,  load average: 0.03, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       159Mi        92Mi       1.0Mi       468Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:30:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:30:01 up 2 days, 16:24,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       158Mi        92Mi       1.0Mi       468Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:35:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:35:01 up 2 days, 16:29,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       158Mi        92Mi       1.0Mi       468Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:40:02 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:40:02 up 2 days, 16:34,  2 users,  load average: 0.01, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       159Mi        92Mi       1.0Mi       468Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:45:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:45:01 up 2 days, 16:38,  2 users,  load average: 0.00, 0.01, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       158Mi        92Mi       1.0Mi       468Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:50:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:50:01 up 2 days, 16:43,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       159Mi        92Mi       1.0Mi       468Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 04:55:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 04:55:01 up 2 days, 16:49,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       156Mi        94Mi       1.0Mi       468Mi       467Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 05:00:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 05:00:01 up 2 days, 16:54,  2 users,  load average: 0.00, 0.00, 0.00
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       159Mi        91Mi       1.0Mi       469Mi       465Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
+================================
+  Talium-tech Server Health Report
+================================
+
+Date: Wed 15 Apr 2026 05:05:01 AM UTC
+Host: vagrant
+User: 
+
+--- Uptime ---
+ 05:05:01 up 2 days, 16:59,  2 users,  load average: 0.13, 0.05, 0.01
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          719Mi       177Mi        83Mi       0.0Ki       459Mi       447Mi
+Swap:         1.4Gi        25Mi       1.4Gi
+
+--- Disk ---
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv   20G  4.3G   15G  24% /
+
+================================
+  All systems checked.
+================================
