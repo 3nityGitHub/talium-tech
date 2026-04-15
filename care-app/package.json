@@ -1,0 +1,9 @@
+{
+    "name": "talium-tech-care-app",
+    "version": "1.0.0",
+    "description": "Talium-tech Care Management App",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    }
+}
